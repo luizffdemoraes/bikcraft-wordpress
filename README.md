@@ -1,7 +1,7 @@
 # bikcraft-wordpress
 
 <h1 align="center">
-    <img alt="Bikcraft" src="/github/bikcraft.png" width="100%"/>
+    <img alt="Bikcraft" src="/bikcraft-wordpress/bikcraft/github/bikcraft.png" width="100%"/>
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
   Projeto
 <br>
 <p align="center">
-  <img alt="Bikcraft" src="/github/bikcraft-pc.png"/>
+  <img alt="Bikcraft" src="/bikcraft-wordpress/bikcraft/github/bikcraft-pc.png"/>
 </p>
 
 ## 🚀 Tecnologias
