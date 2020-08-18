@@ -9,7 +9,7 @@
   Projeto
 <br>
 <p align="center">
-  <img alt="Bikcraft" src="/bikcraft-wordpress/bikcraft/github/bikcraft-pc.png">
+  <img alt="Bikcraft" src="/bikcraft/github/bikcraft-pc.png">
 </p>
 
 ## 🚀 Tecnologias
